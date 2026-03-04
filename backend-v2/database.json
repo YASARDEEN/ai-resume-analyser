@@ -1,0 +1,493 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "yasardeen",
+      "email": "yasardeen50@gmail.com",
+      "password": "$2b$12$el8h6OiL45LYhFz9jNUAF.Rxp.bFQBP2EUaML1fLk5gf0p9kgyUj.",
+      "role": "candidate",
+      "created_at": "2026-02-24T08:46:51.522Z"
+    },
+    {
+      "name": "yasar",
+      "email": "yasardeen25@gmail.com",
+      "password": "$2b$12$7WTIPNlZTup1TPskDKXitO0VFfd62ey8RGOunw6rHxjNvuOwfxam.",
+      "role": "admin",
+      "created_at": "2026-02-24T09:43:49.274Z",
+      "id": 2
+    }
+  ],
+  "resumes": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "file_name": "summaresume.pdf",
+      "file_url": "http://localhost:5000/uploads/1771922820886-summaresume.pdf",
+      "version": 1,
+      "created_at": "2026-02-24T08:47:00.915Z"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "file_name": "YASARDEEN P resume.pdf",
+      "file_url": "http://localhost:5000/uploads/1771923040302-YASARDEEN P resume.pdf",
+      "version": 1,
+      "created_at": "2026-02-24T08:50:40.306Z"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "file_name": "summaresume.pdf",
+      "file_url": "http://localhost:5000/uploads/1771923642542-summaresume.pdf",
+      "version": 1,
+      "created_at": "2026-02-24T09:00:42.547Z"
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "file_name": "yasardeen.pdf",
+      "file_url": "http://localhost:5000/uploads/1771923656053-yasardeen.pdf",
+      "version": 1,
+      "created_at": "2026-02-24T09:00:56.057Z"
+    },
+    {
+      "id": 5,
+      "user_id": 1,
+      "file_name": "yasardeen.pdf",
+      "file_url": "http://localhost:5000/uploads/1771924388818-yasardeen.pdf",
+      "version": 1,
+      "created_at": "2026-02-24T09:13:08.846Z"
+    },
+    {
+      "user_id": 1,
+      "file_name": "yasardeen.pdf",
+      "file_url": "http://localhost:5000/uploads/1771925110156-yasardeen.pdf",
+      "version": 1,
+      "created_at": "2026-02-24T09:25:10.159Z",
+      "id": 6
+    },
+    {
+      "user_id": 1,
+      "file_name": "YASARDEEN P resume.pdf",
+      "file_url": "http://localhost:5000/uploads/1771926059974-YASARDEEN P resume.pdf",
+      "version": 1,
+      "created_at": "2026-02-24T09:40:59.978Z",
+      "id": 7
+    },
+    {
+      "user_id": 1,
+      "file_name": "YASARDEEN P resume.pdf",
+      "file_url": "http://localhost:5000/uploads/1772032942812-YASARDEEN P resume.pdf",
+      "version": 1,
+      "created_at": "2026-02-25T15:22:22.817Z",
+      "id": 8
+    },
+    {
+      "user_id": 1,
+      "file_name": "YASARDEEN P resume.pdf",
+      "file_url": "http://localhost:5000/uploads/1772032945877-YASARDEEN P resume.pdf",
+      "version": 1,
+      "created_at": "2026-02-25T15:22:25.882Z",
+      "id": 9
+    },
+    {
+      "user_id": 1,
+      "file_name": "yasardeen.pdf",
+      "file_url": "http://localhost:5000/uploads/1772600685034-yasardeen.pdf",
+      "version": 1,
+      "created_at": "2026-03-04T05:04:45.038Z",
+      "id": 10
+    },
+    {
+      "id": "d06f6336-585b-4713-8658-b86555c7f048",
+      "user_id": 1,
+      "file_name": "yasardeen.pdf",
+      "file_url": "http://localhost:5000/uploads/1772606210714-yasardeen.pdf",
+      "version": 1,
+      "created_at": "2026-03-04T06:36:50.718Z"
+    },
+    {
+      "id": "f33c0650-7832-421f-8dab-96c7559f9904",
+      "user_id": 1,
+      "file_name": "summaresume.pdf",
+      "file_url": "http://localhost:5000/uploads/1772608309890-summaresume.pdf",
+      "version": 1,
+      "created_at": "2026-03-04T07:11:49.894Z"
+    }
+  ],
+  "jobs": [],
+  "atsScores": [],
+  "keywords": [],
+  "parsedResumes": [
+    {
+      "id": 1,
+      "resume_id": 5,
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "P R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 1 of 2 --\n\nP R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 2 of 2 --\n\n",
+      "created_at": "2026-02-24T09:13:11.360Z"
+    },
+    {
+      "resume_id": 6,
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "P R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 1 of 2 --\n\nP R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 2 of 2 --\n\n",
+      "created_at": "2026-02-24T09:25:13.417Z",
+      "id": 2
+    },
+    {
+      "resume_id": 7,
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "P R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma\nand developing\nresponsive websites using\nHTML, CSS, and\nJavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.com\nMayiladuthurai,\nTamilnadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nD e v e l o p e d a r e s p o n s i v e\np o r t f o l i o w e b s i t e u s i n g\nH T M L a n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nP O R T F O L I O W E B S I T E\nT E C H N O L O G I E S : H T M L ,\nC S S\nE D U C A T I O N\nBACHELOR OF TECHNOLOGY (B.TECH) –\nINFORMATION TECHNOLOGY\nA.V.C COLLEGE OF ENGINEERING\n2023-2027(CURRENTLY PURSUING)\nCGPA- 8.18/10\nGRADE-12\nRICE CITY MATRIC HIGHER SECONDARY SCHOOL\n2022-2023\nPERCENTAGE- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H N I C A L S K I L L S\nFRONT-END DEVELOPMENT:\nHTML,CSS,JAVASCRIPT\nUI / UX DESIGN: FIGMA\nPROGRAMMING LANGUAGES: PYTHON, C, JAVA\nTOOLS: VS CODE, GIT\nW O R K E X P E R I E N C E\nWEB DEVELOPMENT INTERN\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages\nusing HTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | RV C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g s k i l l s .\n\n-- 1 of 1 --\n\n",
+      "created_at": "2026-02-24T09:41:01.396Z",
+      "id": 3
+    },
+    {
+      "resume_id": 10,
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "P R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 1 of 2 --\n\nP R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 2 of 2 --\n\n",
+      "created_at": "2026-03-04T05:04:48.239Z",
+      "id": 4
+    },
+    {
+      "id": "47b503ca-37c4-4954-a80f-743b29535fcb",
+      "resume_id": "178081ce-7219-46d7-bb15-892ff3f72980",
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "P R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma\nand developing\nresponsive websites using\nHTML, CSS, and\nJavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.com\nMayiladuthurai,\nTamilnadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nD e v e l o p e d a r e s p o n s i v e\np o r t f o l i o w e b s i t e u s i n g\nH T M L a n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nP O R T F O L I O W E B S I T E\nT E C H N O L O G I E S : H T M L ,\nC S S\nE D U C A T I O N\nBACHELOR OF TECHNOLOGY (B.TECH) –\nINFORMATION TECHNOLOGY\nA.V.C COLLEGE OF ENGINEERING\n2023-2027(CURRENTLY PURSUING)\nCGPA- 8.18/10\nGRADE-12\nRICE CITY MATRIC HIGHER SECONDARY SCHOOL\n2022-2023\nPERCENTAGE- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H N I C A L S K I L L S\nFRONT-END DEVELOPMENT:\nHTML,CSS,JAVASCRIPT\nUI / UX DESIGN: FIGMA\nPROGRAMMING LANGUAGES: PYTHON, C, JAVA\nTOOLS: VS CODE, GIT\nW O R K E X P E R I E N C E\nWEB DEVELOPMENT INTERN\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages\nusing HTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | RV C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g s k i l l s .\n\n-- 1 of 1 --\n\n",
+      "created_at": "2026-03-04T05:48:43.424Z"
+    },
+    {
+      "id": "2f478cce-3855-48ca-a558-e1b4154b8947",
+      "resume_id": "b96c338c-1dd4-46b1-921b-5954ce8fcfd5",
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "\n\n-- 1 of 1 --\n\n",
+      "created_at": "2026-03-04T05:54:57.410Z"
+    },
+    {
+      "id": "b195cb4d-dbcf-48d6-b58b-f8aa667bad4b",
+      "resume_id": "abf39e15-15d9-4684-84f6-90d40edde468",
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "P R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma\nand developing\nresponsive websites using\nHTML, CSS, and\nJavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.com\nMayiladuthurai,\nTamilnadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nD e v e l o p e d a r e s p o n s i v e\np o r t f o l i o w e b s i t e u s i n g\nH T M L a n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nP O R T F O L I O W E B S I T E\nT E C H N O L O G I E S : H T M L ,\nC S S\nE D U C A T I O N\nBACHELOR OF TECHNOLOGY (B.TECH) –\nINFORMATION TECHNOLOGY\nA.V.C COLLEGE OF ENGINEERING\n2023-2027(CURRENTLY PURSUING)\nCGPA- 8.18/10\nGRADE-12\nRICE CITY MATRIC HIGHER SECONDARY SCHOOL\n2022-2023\nPERCENTAGE- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H N I C A L S K I L L S\nFRONT-END DEVELOPMENT:\nHTML,CSS,JAVASCRIPT\nUI / UX DESIGN: FIGMA\nPROGRAMMING LANGUAGES: PYTHON, C, JAVA\nTOOLS: VS CODE, GIT\nW O R K E X P E R I E N C E\nWEB DEVELOPMENT INTERN\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages\nusing HTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | RV C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g s k i l l s .\n\n-- 1 of 1 --\n\n",
+      "created_at": "2026-03-04T06:02:11.553Z"
+    },
+    {
+      "id": "5c598e0c-02c1-47ee-96aa-89c9bb48742d",
+      "resume_id": "d06f6336-585b-4713-8658-b86555c7f048",
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "P R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 1 of 2 --\n\nP R O F I L E\nB.Tech IT fresher with\nskills in UI/UX design and\nfront-end web\ndevelopment. Experienced\nin designing user-friendly\ninterfaces using Figma and\ndeveloping responsive\nwebsites using HTML, CSS,\nand JavaScript. Seeking an\nentry-level role to learn\nand contribute.\nC O N T A C T M E\n6369675068\nyasardeen50@gmail.co\nm\nMayiladuthurai,\nTamil Nadu\nYasardeen P\nhttps://github.com/YAS\nARDEEN\nP R O J E C T\nP o r t f o l i o We b s i t e\nD e v e l o p e d a\nr e s p o n s i v e p o r t f o l i o\nw e b s i t e u s i n g H T M L\na n d C S S s h o w c a s i n g\np r o j e c t s a n d s k i l l s .\nA I R e s u m e A n a l y z e r\nD e v e l o p e d a n A I -\np o w e r e d r e s u m e\na n a l y z e r u s i n g S i t c h\na n d A n t i g r a v i t y t o\ne v a l u a t e r e s u m e s ,\ni d e n t i f y s k i l l s , a n d\ns u g g e s t i m p r o v e m e n t s .\nE D U C A T I O N\nBachelor of Technology (B.Tech) – Information Technology\nA.V.C College Of Engineering\n2023-2027(Currently Pursuing)\nCGPA- 8.18/10\nGRADE-12\nRice City Matric Higher Secondary School\n2022-2023\nPercentage- 79.33%\nL A N G U A G E\nEnglish, Tamil\nYASARDEEN P\nUI/UX Designer & Web Developer\nT E C H S K I L L S\nFrontend: HTML,CSS,JavaScript\nUI/UX Design: Figma\nProgramming Languages: Python, C, Java\nTools: VS Code, Git\nW O R K E X P E R I E N C E\nWeb Development Intern\nLogirtha Technologies Private Limited\n19 July 2025 – 25 July 2025\nDeveloped and updated responsive web pages using\nHTML, CSS, and basic JavaScript.\nleadership, Quick learner, Team player, Good\ncommunication, Time management, Problem-solving\nS O F T S K I L L S\nA C H I E V E M E N T S\nG E E K AT H O N 2 0 2 5 – R U N N E R - U P\nI E E E C O M P U T E R S O C I E T Y | R V C O L L E G E O F\nE N G I N E E R I N G , B A N G A L O R E\nS e c u r e d R u n n e r - U p p o s i t i o n i n a n a t i o n a l - l e v e l\nh a c k a t h o n c o n d u c t e d b y t h e I E E E C o m p u t e r S o c i e t y ,\nd e m o n s t r a t i n g i n n o v a t i o n a n d p r o b l e m - s o l v i n g\ns k i l l s .\n\n-- 2 of 2 --\n\n",
+      "created_at": "2026-03-04T06:36:51.964Z"
+    },
+    {
+      "id": "7c2c0810-4f7c-4603-86e4-6dc18408d242",
+      "resume_id": "f33c0650-7832-421f-8dab-96c7559f9904",
+      "extracted_data": {
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "experience": [
+          {
+            "title": "Senior Software Engineer",
+            "company": "Tech Innovations Inc.",
+            "duration": "3 years",
+            "description": "Led frontend development for a major SaaS platform."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University",
+            "year": "2020"
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-commerce Platform",
+            "description": "Built a full-stack e-commerce site using MERN stack."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect",
+          "Meta Frontend Developer"
+        ],
+        "score": 75
+      },
+      "raw_text": "\n\n-- 1 of 1 --\n\n",
+      "created_at": "2026-03-04T07:11:54.235Z"
+    }
+  ],
+  "sessions": []
+}
